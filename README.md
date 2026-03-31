@@ -15,4 +15,4 @@ Project webpage: [SkySplatV2](https://nancheng2001.github.io/SkySplatV2/)
 ### Highlights
 Our methods demonstrate superior performance as shown below:
 
-![Algorithm Overview](https://github.com/<用户名>/<仓库名>/raw/main/fig1_top.png)
+![Algorithm Overview](./fig1_top.png)
