@@ -6,15 +6,15 @@
 
 Thank you for your attention to and interest in the **SkySplat** series of papers.  
 The **complete codebase** will be open-sourced **after the extended version of the paper is accepted**.  
-
-**Before that**, we plan to gradually release the generalizable 3D Gaussian Splatting (3DGS) methods for **sprase-view satellite imagery**, including:  
-
-- **MVSplat** (refined version)  
-- **HiSplat** (refined version)  
-
 Project webpage: [SkySplatV2](https://nancheng2001.github.io/SkySplatV2/)
 
 ---
+## 📦 Code Release Status
+
+The baseline implementation of SkySplat **has been released** at:
+👉 https://github.com/NanCheng2001/SkySplat-main
+
+We will gradually release the full SkySplat / SkySplat++ series.
 
 ## ✨ Highlights
 
@@ -32,9 +32,7 @@ It demonstrates superior performance in sparse-view 3D reconstruction, as illust
 ---
 
 ## 📝 To Do List
-
-- Release **MVSplat** code for sparse-view satellite imagery  
-- Release **HiSplat** code for sparse-view satellite imagery  
+- Release **SkySplat++** code for sparse-view satellite imagery  
 
 ---
 
